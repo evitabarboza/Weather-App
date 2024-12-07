@@ -70,5 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [evitabarboza](https://github.com/evitabarboza)
 - Email: evitabarboza195@gmail.com
-```
 
